@@ -1,0 +1,25 @@
+.top {
+	background-image: url(../img/p1.jpg);
+	height: 400px;
+	background-size: cover;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+body {
+	background-color: #A3FFB2;
+}
+
+.main {
+	background-color: #fff;
+	padding: 10px;
+	 box-shadow: 0 0 10px rgba(0,0,0,0.5); /* Параметры тени */
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
+section {
+	margin-top: 20px;
+}
